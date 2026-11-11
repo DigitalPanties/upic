@@ -1,0 +1,44 @@
+[
+    {
+        "hex": "0B",
+        "name": "Small Floral",
+        "slug": "small-floral",
+        "code": "BSkLD||oXoUF"
+    },
+    {
+        "hex": "0C",
+        "name": "Large Floral",
+        "slug": "large-floral",
+        "code": "BSkMD||oXoUF"
+    },
+    {
+        "hex": "0D",
+        "name": "Leopard",
+        "slug": "leopard",
+        "code": "BSkND||oXoUF"
+    },
+    {
+        "hex": "0E",
+        "name": "Lace Look",
+        "slug": "lace-look",
+        "code": "BSkOD||oXoUF"
+    },
+    {
+        "hex": "0F",
+        "name": "Stars",
+        "slug": "stars",
+        "code": "BSkPD||oXoUF"
+    },
+    {
+        "hex": "10",
+        "name": "Camouflage",
+        "slug": "camouflage",
+        "code": "BSkQD||oXoUF"
+    },
+    {
+        "hex": "11",
+        "name": "Plaid",
+        "slug": "plaid",
+        "code": "BSkRD||oXoUF"
+    }
+]

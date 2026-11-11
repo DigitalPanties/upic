@@ -1,0 +1,52 @@
+{
+    "code": "CBQAH*1r7jYF8QEBAhAHAQIBA||||xAHAgECAv|M3RAHAwECAv|M3SAGAQED|*bwMAQB6DtqMAQCbLvwMAQD||HdMAQEgBc*QAEKR4mUYA",
+    "design": {
+        "style": 5,
+        "styleName": "Bikini",
+        "pattern": 10,
+        "sheerness": 1,
+        "colors": {
+            "front": "#e83b6a",
+            "back": "#6cbbf0",
+            "trim": "#fff1dd",
+            "pattern": "#80173e"
+        },
+        "fabric": "satin",
+        "trims": [
+            {
+                "zone": "waist",
+                "material": "lace",
+                "edge": "scalloped",
+                "width": 3,
+                "color": "#ffffff"
+            },
+            {
+                "zone": "left_leg",
+                "material": "elastic",
+                "edge": "picot",
+                "width": 2,
+                "color": "#ffccdd"
+            },
+            {
+                "zone": "right_leg",
+                "material": "elastic",
+                "edge": "picot",
+                "width": 2,
+                "color": "#ffccdd"
+            }
+        ],
+        "details": [
+            {
+                "type": "bow",
+                "at": "front_center",
+                "size": 3,
+                "color": "#ffe6f0"
+            }
+        ],
+        "unknown": [],
+        "format": "upic-extended",
+        "version": 1,
+        "code": "CBQAH*1r7jYF8QEBAhAHAQIBA||||xAHAgECAv|M3RAHAwECAv|M3SAGAQED|*bwMAQB6DtqMAQCbLvwMAQD||HdMAQEgBc*QAEKR4mUYA",
+        "legacyCode": "CBQAH*1r7jYF"
+    }
+}

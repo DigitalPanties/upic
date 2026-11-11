@@ -1,0 +1,42 @@
+{
+  "1": {
+    "trimTop": 20,
+    "detailY": 16
+  },
+  "2": {
+    "trimTop": 19,
+    "detailY": 9
+  },
+  "3": {
+    "trimTop": 22,
+    "detailY": 16
+  },
+  "4": {
+    "trimTop": 24,
+    "detailY": 20
+  },
+  "5": {
+    "trimTop": 23,
+    "detailY": 18
+  },
+  "6": {
+    "trimTop": 24,
+    "detailY": 20
+  },
+  "7": {
+    "trimTop": 25,
+    "detailY": 19
+  },
+  "8": {
+    "trimTop": 23,
+    "detailY": 19
+  },
+  "9": {
+    "trimTop": 23,
+    "detailY": 19
+  },
+  "10": {
+    "trimTop": 23,
+    "detailY": 20
+  }
+}

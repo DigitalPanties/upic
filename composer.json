@@ -1,0 +1,22 @@
+{
+  "name": "upic/upic",
+  "description": "Universal Panty Identification Code \u2014 reversible positional-hex codes and SVG rendering",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/UPIC.php"
+    ]
+  },
+  "scripts": {
+    "test": [
+      "php tests/registry_contract.php",
+      "php tests/run.php",
+      "php tests/maker_interop.php",
+      "php tests/baseline_wire.php"
+    ]
+  }
+}

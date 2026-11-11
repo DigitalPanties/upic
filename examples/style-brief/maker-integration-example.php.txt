@@ -1,0 +1,17 @@
+OPTIONAL INTEGRATION EXAMPLE — DO NOT PASTE UNREVIEWED INTO PRODUCTION
+
+In a Maker PHP page where $IDValue is already set to the validated UPIC code,
+add a seller-request link. Adjust the variable name to match your version.
+Upload this prototype to /upic-brief/ before adding the link.
+
+<?php
+$briefCode = isset($IDValue) ? (string)$IDValue : '';
+if ($briefCode !== '' && preg_match('/^[A-Za-z0-9*|]+$/', $briefCode)) {
+    $briefUrl = '/upic-brief/?code=' . rawurlencode($briefCode);
+    echo '<a href="' . htmlspecialchars($briefUrl, ENT_QUOTES, 'UTF-8') . '">Request a style like this</a>';
+}
+?>
+
+This link creates a style brief; it does not place an order, contact a seller,
+or record any personal information. The existing Maker should still validate
+UPIC code data before rendering or persistence.

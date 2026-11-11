@@ -1,0 +1,357 @@
+{
+  "schema_version": 1,
+  "viewBox": "0 0 69.21 69.21",
+  "cuts": {
+    "01": {
+      "name": "Boyshort",
+      "file": "cuts/01-boyshort.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "02": {
+      "name": "Control High-Waist",
+      "file": "cuts/02-control-high-waist.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "03": {
+      "name": "Hipster",
+      "file": "cuts/03-hipster.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "04": {
+      "name": "Cheeky Brazilian",
+      "file": "cuts/04-cheeky-brazilian.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "05": {
+      "name": "Bikini",
+      "file": "cuts/05-bikini.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "06": {
+      "name": "Slip",
+      "file": "cuts/06-slip.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "07": {
+      "name": "Tanga",
+      "file": "cuts/07-tanga.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "08": {
+      "name": "StringBikini",
+      "file": "cuts/08-stringbikini.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "09": {
+      "name": "Thong",
+      "file": "cuts/09-thong.svg",
+      "renderer": "template",
+      "status": "stable"
+    },
+    "0A": {
+      "name": "G-String",
+      "file": "cuts/0A-g-string.svg",
+      "renderer": "template",
+      "status": "stable"
+    }
+  },
+  "patterns": {
+    "00": {
+      "name": "Legacy pattern 00",
+      "file": "patterns/00-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "01": {
+      "name": "Legacy pattern 01",
+      "file": "patterns/01-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "02": {
+      "name": "Legacy pattern 02",
+      "file": "patterns/02-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "03": {
+      "name": "Legacy pattern 03",
+      "file": "patterns/03-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "04": {
+      "name": "Legacy pattern 04",
+      "file": "patterns/04-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "05": {
+      "name": "Legacy pattern 05",
+      "file": "patterns/05-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "06": {
+      "name": "Legacy pattern 06",
+      "file": "patterns/06-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "07": {
+      "name": "Legacy pattern 07",
+      "file": "patterns/07-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "08": {
+      "name": "Legacy pattern 08",
+      "file": "patterns/08-legacy.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "09": {
+      "name": "Small hearts",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "0A": {
+      "name": "Large hearts",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "0B": {
+      "name": "Small floral",
+      "file": "patterns/0B-small-floral.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "0C": {
+      "name": "Large floral",
+      "file": "patterns/0C-large-floral.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "0D": {
+      "name": "Leopard",
+      "file": "patterns/0D-leopard.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "0E": {
+      "name": "Lace look",
+      "file": "patterns/0E-lace-look.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "0F": {
+      "name": "Stars",
+      "file": "patterns/0F-stars.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "10": {
+      "name": "Camouflage",
+      "file": "patterns/10-camouflage.svg",
+      "renderer": "svg",
+      "status": "stable"
+    },
+    "11": {
+      "name": "Plaid",
+      "file": "patterns/11-plaid.svg",
+      "renderer": "svg",
+      "status": "stable"
+    }
+  },
+  "fabrics": {
+    "00": {
+      "name": "unspecified",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "01": {
+      "name": "cotton",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "02": {
+      "name": "satin",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "03": {
+      "name": "silk",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "04": {
+      "name": "nylon",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "05": {
+      "name": "mesh",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "06": {
+      "name": "lace",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "07": {
+      "name": "microfiber",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "08": {
+      "name": "stretch_lace",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "09": {
+      "name": "chiffon",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "0A": {
+      "name": "jersey",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "0B": {
+      "name": "velvet",
+      "renderer": "builtin",
+      "status": "stable"
+    }
+  },
+  "trim_materials": {
+    "00": {
+      "name": "plain",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "01": {
+      "name": "elastic",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "02": {
+      "name": "lace",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "03": {
+      "name": "ribbon",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "04": {
+      "name": "piping",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "05": {
+      "name": "stitch",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "06": {
+      "name": "crochet",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "07": {
+      "name": "mesh",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "08": {
+      "name": "satin_binding",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "09": {
+      "name": "beaded",
+      "renderer": "builtin",
+      "status": "stable"
+    }
+  },
+  "edge_finishes": {
+    "00": {
+      "name": "smooth",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "01": {
+      "name": "scalloped",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "02": {
+      "name": "picot",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "03": {
+      "name": "wavy",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "04": {
+      "name": "ruffled",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "05": {
+      "name": "zigzag",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "06": {
+      "name": "eyelash",
+      "renderer": "builtin",
+      "status": "stable"
+    }
+  },
+  "details": {
+    "01": {
+      "name": "bow",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "02": {
+      "name": "rosette",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "03": {
+      "name": "heart",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "04": {
+      "name": "side_tie",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "05": {
+      "name": "pearl",
+      "renderer": "builtin",
+      "status": "stable"
+    },
+    "06": {
+      "name": "flower",
+      "renderer": "builtin",
+      "status": "stable"
+    }
+  }
+}
